@@ -1,0 +1,5 @@
+*.session-journal
+*.session
+log.log
+.env
+chats.xlsx
