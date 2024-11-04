@@ -261,8 +261,3 @@ with app:
         check_for_command()        # Проверяем наличие сообщений в избранном
         time.sleep(10)  # Проверка раз 10 сек
 
-
-    # 9953061709
-    # assistent_PRO_ZHENSTVENNOSTI
-    # MVD44
-
